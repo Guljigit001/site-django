@@ -1,0 +1,12 @@
+/ven
+__pycache__/
+__idea__/
+db.sqlite3
+
+.env
+
+config.py
+
+api.json
+
+tet_data/
